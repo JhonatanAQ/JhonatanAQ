@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Jhonatan Andrade</h1>
 
 
- 🔥 Junior Web Developer 
+ 🔥 Junior  Developer 
 
 <br>
 
